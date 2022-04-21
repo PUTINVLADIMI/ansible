@@ -1,0 +1,18 @@
+---
+- hosts: localhost
+  become: yes
+  connection: local
+  
+  roles:	 
+   - anydesk
+   - bat
+   - brave
+   - codium
+   - nano
+   - ohmybash
+   - tmux
+   - ulauncher
+   - vagrant
+   - qemu
+    
+    

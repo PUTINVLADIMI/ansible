@@ -1,0 +1,4 @@
+[testing]
+10.10.6.154
+[testing:vars]
+ansible_ssh_user=USER
